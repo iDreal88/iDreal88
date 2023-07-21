@@ -63,4 +63,8 @@ I am a UI/UX Designer | Frontend Developer | iOS Developer <img src="https://med
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDreal88&layout=compact&theme=vision-friendly-dark)](https://github.com/iDreal88/github-readme-stats)
 
+---
 
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
