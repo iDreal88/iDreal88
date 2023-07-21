@@ -62,9 +62,3 @@ I am a UI/UX Designer | Frontend Developer | iOS Developer <img src="https://med
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iDreal88&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDreal88&layout=compact&theme=vision-friendly-dark)](https://github.com/iDreal88/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
