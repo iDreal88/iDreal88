@@ -23,4 +23,11 @@
 
 ### :man_technologist: About Me :
 I am a UI/UX Designer | Frontend Developer | iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- :telescope: I’m working as an iOS Developer and contributing to frontend & ui/ux design iOS applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/darryl8863/)
 </div>
