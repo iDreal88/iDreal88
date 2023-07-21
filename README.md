@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I am a UI/UX Designer | Frontend Developer | iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I’m working as an iOS Developer and contributing to frontend & ui/ux design iOS applications.
+- :telescope: I’m working as an iOS Developer and contributing to Frontend & UI/UX design iOS applications.
 
 - :seedling: Exploring Technical Content Writing.
 
